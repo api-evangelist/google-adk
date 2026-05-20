@@ -24,6 +24,8 @@ apis:
       - type: Documentation
         url: https://google.github.io/adk-docs/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/google
   - type: Website
     url: https://google.github.io/adk-docs/
   - type: Documentation
