@@ -48,6 +48,12 @@ apis:
       - type: Documentation
         url: https://google.github.io/adk-docs/
 common:
+  - type: Plans
+    url: plans/google-adk-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/google-adk-rate-limits.yml
+  - type: FinOps
+    url: finops/google-adk-finops.yml
   - type: GitHubOrganization
     url: https://github.com/google
   - type: Website
